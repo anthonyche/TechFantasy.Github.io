@@ -19,6 +19,7 @@ I am just using this to upload some of my personal stuff and use this as a funct
 
         Fifth Step: git commit -m "First Commit"
 
-        Sixth Step: git remote add origin https://github.com/anthonyche/JustToTest.git
+        Sixth Step: git remote add origin git@github.com:anthonyche/JustToTest.git
 
         Seventh Step: git push -u origin master
+        Or git push -u origin main              #(default)

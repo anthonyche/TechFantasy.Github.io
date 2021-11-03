@@ -1,7 +1,7 @@
 # This is a Tutorial made by Haolai Che on 11/02/2021
 # This is about What is git Pull and How to use Git Pull
 
-# 1. What is git pull?
+# 1. What is git *pull*?
     Gitpull is used to fetch and merge changes from remote repo to local repo
     Gitpull is combined with two commands: Git fetch followed by Git merge
 

@@ -35,7 +35,7 @@
     git push -u origin master
     # master is the branch, the default is main
     
-# Now The push is done, we have pulled, and committed changes, and then pushed it back. Hooray !! 😄 
+# Now The push is done, we have pulled, and committed changes, and then pushed it back. Hooray !! 😄 😂
     
 
 
